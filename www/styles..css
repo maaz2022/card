@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.i1{
+    width: 130px;
+}
+.card{
+    padding: 20px;
+    width: 400px;
+    /* border: 2px dotted black; */
+    display: flex;
+    margin: 0 auto 0 auto;
+    justify-content: space-around;
+    text-align: center;
+    background-color: aquamarine;
+    border-right: 4px solid gray ;
+
+}
